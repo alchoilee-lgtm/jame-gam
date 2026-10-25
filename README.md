@@ -1,4 +1,4 @@
 # untitled rage game
-So like this bean gets bullied by some buff beans cuz he is "just a little guy" *wink wink*. So basically, he wants to do this obstacle course that will make him super buff so he can bully the bully back, and you, as that bullied bean, has to make it to the top.
+You are a bean, living amongst many other beans. However, once difference is that you are short, and people call him "just a lil guy". He gets so tired of this that one day, he embarks on a perilous journey to conquer the hardest obstacle course known to beankind, in an attempt to become BUFF and TALL
 
-You can move with arrow keys or WASD, and just dont touch spikes
+You can move with arrow keys or WASD, dont touch spikes and jump on clouds as springs
