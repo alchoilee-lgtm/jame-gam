@@ -1,10 +1,15 @@
 [gd_scene format=3 uid="uid://b4xj4hr7iosi6"]
 
-[ext_resource type="Texture2D" uid="uid://cxh0jqw3tiqvb" path="res://art/costume1 (5).svg" id="1_p78a6"]
+[ext_resource type="Texture2D" uid="uid://dij7exukauxwr" path="res://art/image (26) (2).svg" id="1_p78a6"]
+[ext_resource type="AudioStream" uid="uid://camv467cjv4c8" path="res://sounds/atlasaudio-calm-610028.mp3" id="2_aw8vk"]
 
 [node name="Win Scene" type="Node2D" unique_id=186956412]
 
-[node name="Costume1(5)" type="Sprite2D" parent="." unique_id=1056134306]
-position = Vector2(565, 303)
-scale = Vector2(0.20448972, 0.2044897)
+[node name="Image(26)(2)" type="Sprite2D" parent="." unique_id=2116345780]
+position = Vector2(576.0278, 324.00003)
+scale = Vector2(0.30639097, 0.30639097)
 texture = ExtResource("1_p78a6")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." unique_id=1520546471]
+stream = ExtResource("2_aw8vk")
+autoplay = true

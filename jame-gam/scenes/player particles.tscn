@@ -13,7 +13,6 @@ angular_velocity_max = 66.459984
 gravity = Vector3(0, 1000, 0)
 scale_min = 2.0
 scale_max = 7.0
-color = Color(0.8101117, 0.97, 0.7469, 1)
 
 [node name="Player" type="GPUParticles2D" unique_id=539770766]
 emitting = false
